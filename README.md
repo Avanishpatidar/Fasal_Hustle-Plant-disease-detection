@@ -1,1 +1,1 @@
-# Fasal_Hustle-Plant-disease-detection
+# Fasal_Hustle:Plant-disease-detection
